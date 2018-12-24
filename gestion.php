@@ -14,7 +14,7 @@
 <html>
 <body>
 
-<table border="2">
+<table border="3">
     <tr>
         <td>Nom</td>
         <td><?php echo ($Nom)?></td>
